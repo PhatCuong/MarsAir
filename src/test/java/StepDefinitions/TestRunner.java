@@ -10,7 +10,6 @@ import org.junit.runner.RunWith;
         glue = ("StepDefinitions"),
         monochrome = true,
         plugin = {"pretty", "html:target/HtmlReports"})
-
 public class TestRunner {
 
 }
