@@ -12,3 +12,6 @@ The UI needs to be attractive, but with no bells and whistles: enough to be able
 ## Automation Test
 ### Purpose: 
 To test the basic main flow to find the booking slot with the promotion code.  
+
+### Technical
+Selenium, Cucumber, and Java programming langugage
